@@ -5,4 +5,14 @@ package nyc.c4q.unit5mid_unitpracticalassessment.model;
  */
 
 public class DataModelResponse {
+    ResultsModel[] results;
+
+    public ResultsModel[] getResults() {
+        return results;
+    }
+
+    public void setResults(ResultsModel[] results) {
+        this.results = results;
+    }
 }
+

@@ -3,6 +3,8 @@ package nyc.c4q.unit5mid_unitpracticalassessment;
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
 
+import retrofit2.Retrofit;
+
 public class MainActivity extends AppCompatActivity {
 
     @Override
